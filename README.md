@@ -14,3 +14,6 @@ Future Improvements:
 
 License Information:
 MIT License
+
+Author:
+Vince Hartman Currently enrolled at MIT in Full Stack Development with MERN
